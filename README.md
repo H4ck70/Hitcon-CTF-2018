@@ -1,4 +1,3 @@
-# Hitcon-CTF-2018
-## WriteUps
+# Hitcon-CTF-2018 WriteUps
 
-https://ctf2018.hitcon.org
+Website : https://ctf2018.hitcon.org
